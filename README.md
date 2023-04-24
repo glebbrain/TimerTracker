@@ -1,5 +1,5 @@
 # TimerTracker
-TimerTracker - looking at the timer, you discipline yourself
+TimerTracker - when you look at the countdown - you make yourself disciplined
 
 # Capability
 1. Countdown timer
