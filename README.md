@@ -10,9 +10,8 @@ TimerTracker - when you look at the countdown - you make yourself disciplined
 
 # Interface
 ![image](https://user-images.githubusercontent.com/4953847/234057565-3cf079dd-39bb-4fc1-a712-835b2fef4b72.png)
-<img src="![image](https://user-images.githubusercontent.com/4953847/234057565-3cf079dd-39bb-4fc1-a712-835b2fef4b72.png)" width="500">
 
-#Roadmap
+# Roadmap
 General
 1. Debris cleaning
 
