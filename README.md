@@ -9,4 +9,5 @@ TimerTracker - looking at the timer, you discipline yourself
 5. Starting the timer in a circle
 
 # Interface
-![image](https://user-images.githubusercontent.com/4953847/234057263-8610440b-413e-4754-8b66-8aa8d12dcce3.png)
+![image](https://user-images.githubusercontent.com/4953847/234057565-3cf079dd-39bb-4fc1-a712-835b2fef4b72.png)
+
