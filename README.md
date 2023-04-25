@@ -32,3 +32,6 @@ Settings
 Timer
 1. Embedding a counter in the main form
 2. Counting backwards from 0 and beyond - how much time was spent on the task
+
+Audio
+1. Sound signals
