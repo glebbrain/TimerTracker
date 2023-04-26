@@ -28,6 +28,8 @@ Settings
 2. Set window dimensions
 3. Change the main window and floating: color, font, background
 4. Add to Windows autostart
+5. Autostart: Round or Start
+6. Disabling buttons
 
 Timer
 1. Embedding a counter in the main form
